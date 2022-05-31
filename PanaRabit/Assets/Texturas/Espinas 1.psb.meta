@@ -1,0 +1,536 @@
+fileFormatVersion: 2
+guid: 9e28ae29fe206ba4eb3e66780b3a70d5
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: b2a9591990af98743ba3ff7cf1000886, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 1
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 1
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMasterTextureLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  spriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  mosaicSpriteImportData: []
+  rigSpriteImportData:
+  - name: Gafas
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1737
+      width: 333
+      height: 90
+    spriteID: 84a28f76e96db6d4a97737f6dbd84d3e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -306, y: 1096}
+  - name: Cicatriz
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 345
+      y: 1737
+      width: 42
+      height: 51
+    spriteID: bedf0ff6fb564024c9cabdf3888f925c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -250, y: 1097}
+  - name: Capul
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1609
+      width: 335
+      height: 120
+    spriteID: fe798a8f129f2b0449881cd329b477d7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -308, y: 888}
+  - name: Cara LLorando
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 769
+      y: 4
+      width: 154
+      height: 125
+    spriteID: 6bd36c8e27c7af94e840573cc5d5e9c7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 385, y: -573}
+  - name: Cara Alegre
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 612
+      y: 303
+      width: 126
+      height: 123
+    spriteID: b0a3f5ab621c86a48852417365dffa63
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 201, y: -276}
+  - name: 'Cara Enojado '
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 612
+      y: 147
+      width: 134
+      height: 148
+    spriteID: cc2cef393a451c34391e2254e6458c14
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 209, y: -432}
+  - name: Boca
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1835
+      width: 184
+      height: 120
+    spriteID: a1f87682dae348a48b946f87c56ee9ca
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -378, y: 1262}
+  - name: Cuerpo
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 908
+      width: 437
+      height: 693
+    spriteID: 54cf738fa770a17468d6489c975238a7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -281, y: 772}
+  - name: Brazo der
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 196
+      y: 1835
+      width: 149
+      height: 135
+    spriteID: 30f3eca75fdb0a94e991931d189316c9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -437, y: 1434}
+  - name: brazo izq
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 612
+      y: 4
+      width: 149
+      height: 135
+    spriteID: d462ef3a9dac1fa4fa864b2557046338
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 403, y: -388}
+  - name: "p\xEDe der"
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 612
+      y: 434
+      width: 94
+      height: 134
+    spriteID: 537183dc3f36b0d479fabf7dd174a1f3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 86, y: 377}
+  - name: "P\xEDe izq"
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 612
+      y: 576
+      width: 94
+      height: 134
+    spriteID: 369831e43a198254a8efd782566478b4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 198, y: 524}
+  - name: Espinas
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 600
+      height: 896
+    spriteID: 1b42099317f9a2a44a7e876f20fa64b7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -182, y: -64}
+  characterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+    pivot: {x: 0, y: 0}
+    boneReadOnly: 0
+  sharedRigSpriteImportData: []
+  sharedRigCharacterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+    pivot: {x: 0, y: 0}
+    boneReadOnly: 0
+  platformSettings: []
+  mosaicLayers: 1
+  characterMode: 1
+  documentPivot: {x: 0, y: 0}
+  documentAlignment: 7
+  importHiddenLayers: 0
+  layerMappingOption: 2
+  generatePhysicsShape: 0
+  paperDollMode: 0
+  keepDupilcateSpriteName: 1
+  skeletonAssetReferenceID: 
+  padding: 4
+  spriteCategoryList:
+    categories: []
+  spritePackingTag: 
+  resliceFromLayer: 0
+  mosaicPSDLayers: []
+  rigPSDLayers:
+  - name: Nuevo grupo
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: d2053be13d12006418451638f4fcdcbf
+    layerID: 28
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Gafas
+    spriteName: Gafas
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 84a28f76e96db6d4a97737f6dbd84d3e
+    layerID: 27
+    mosaicPosition: {x: 4, y: 1737}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Cicatriz
+    spriteName: Cicatriz
+    isGroup: 0
+    parentIndex: 0
+    spriteID: bedf0ff6fb564024c9cabdf3888f925c
+    layerID: 23
+    mosaicPosition: {x: 345, y: 1737}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Capul
+    spriteName: Capul
+    isGroup: 0
+    parentIndex: 0
+    spriteID: fe798a8f129f2b0449881cd329b477d7
+    layerID: 22
+    mosaicPosition: {x: 4, y: 1609}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Cara LLorando
+    spriteName: Cara LLorando
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 6bd36c8e27c7af94e840573cc5d5e9c7
+    layerID: 31
+    mosaicPosition: {x: 769, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Cara Alegre
+    spriteName: Cara Alegre
+    isGroup: 0
+    parentIndex: 0
+    spriteID: b0a3f5ab621c86a48852417365dffa63
+    layerID: 30
+    mosaicPosition: {x: 612, y: 303}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: 'Cara Enojado '
+    spriteName: 'Cara Enojado '
+    isGroup: 0
+    parentIndex: 0
+    spriteID: cc2cef393a451c34391e2254e6458c14
+    layerID: 32
+    mosaicPosition: {x: 612, y: 147}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Boca
+    spriteName: Boca
+    isGroup: 0
+    parentIndex: 0
+    spriteID: a1f87682dae348a48b946f87c56ee9ca
+    layerID: 18
+    mosaicPosition: {x: 4, y: 1835}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Cuerpo
+    spriteName: Cuerpo
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 54cf738fa770a17468d6489c975238a7
+    layerID: 25
+    mosaicPosition: {x: 4, y: 908}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Brazo der
+    spriteName: Brazo der
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 30f3eca75fdb0a94e991931d189316c9
+    layerID: 13
+    mosaicPosition: {x: 196, y: 1835}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: brazo izq
+    spriteName: brazo izq
+    isGroup: 0
+    parentIndex: 0
+    spriteID: d462ef3a9dac1fa4fa864b2557046338
+    layerID: 11
+    mosaicPosition: {x: 612, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: "p\xEDe der"
+    spriteName: "p\xEDe der"
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 537183dc3f36b0d479fabf7dd174a1f3
+    layerID: 9
+    mosaicPosition: {x: 612, y: 434}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: "P\xEDe izq"
+    spriteName: "P\xEDe izq"
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 369831e43a198254a8efd782566478b4
+    layerID: 7
+    mosaicPosition: {x: 612, y: 576}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Espinas
+    spriteName: Espinas
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 1b42099317f9a2a44a7e876f20fa64b7
+    layerID: 26
+    mosaicPosition: {x: 4, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  sharedRigPSDLayers: []
+  pSDLayerImportSetting: []
+  importFileNodeState: 1
+  generateGOHierarchy: 0
+  textureAssetName: 
+  prefabAssetName: 
+  spriteLibAssetName: 
+  skeletonAssetName: 
+  secondarySpriteTextures: []
